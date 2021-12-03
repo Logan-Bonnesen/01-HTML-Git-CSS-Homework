@@ -10,5 +10,5 @@ This project added semantic HTML elements to the source code to increase accessi
 <img src="horiseon-screenshot.png" alt="screenshot of Horiseon homepage" height="600px" width="400px"/>   
 
 
-View Website: [Horiseon Social Services]() 
+View Website: [Horiseon Social Services](https://logan-bonnesen.github.io/01-homework) 
 
